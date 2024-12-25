@@ -1,0 +1,72 @@
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+
+# 指定 ChromeDriver 的路径
+driverPath = r'C:\Users\kaiwu\Downloads\chromedriver-win64\chromedriver-win64\chromedriver.exe'
+
+# 创建 Service 对象
+service = Service(driverPath)
+
+# 启动 Chrome 浏览器
+browser = webdriver.Chrome(service=service)
+
+# 创建显式等待对象，等待元素加载
+wait = WebDriverWait(browser, 10)
+
+# 创建存储数据的列表
+articles_data = []
+
+# 逐页提取数据，每页10篇，总共提取100篇
+for page in range(0, 150, 10):
+    print("page: ", page)
+    # 使用目标 URL 加载页面，修改 start 参数以翻页
+    url = f"https://scholar.google.com.tw/scholar?start={page}&q=dqn+stock+price+prediction&hl=zh-TW&as_sdt=0,5"
+    browser.get(url)
+
+    # 提取包含文章标题、引用次数和URL的元素
+    articles = browser.find_elements(By.CSS_SELECTOR, 'div.gs_r.gs_or.gs_scl')
+
+    # 循环遍历每篇文章
+    for article in articles:
+        # 提取标题
+        try:
+            title_element = article.find_element(By.XPATH, './/h3[@class="gs_rt"]/a')
+            title = title_element.text  # 获取标题文本
+            url = title_element.get_attribute('href')  # 获取文章链接
+        except Exception as e:
+            print("Error finding title element:", e)
+            continue  # 跳过当前循环，继续下一个文章
+
+        # 提取引用次数
+        try:
+            # 使用显式等待，等待"被引用"的链接出现
+            citation_element = WebDriverWait(article, 10).until(
+                EC.presence_of_element_located((By.XPATH, ".//a[contains(text(), '被引用')]"))
+            )
+            citation_text = citation_element.text  # 获取引用次数文本
+            citation = int(citation_text.split(' ')[1])  # 提取数字并转换为整数
+        except Exception as e:
+            citation = 0  # 没有引用次数则设为0
+
+        # 将文章信息存储在列表中
+        articles_data.append({
+            'title': title,
+            'citations': citation,
+            'url': url
+        })
+
+# 关闭浏览器
+browser.quit()
+
+# 根据引用次数排序，降序排列
+articles_data_sorted = sorted(articles_data, key=lambda x: x['citations'], reverse=True)
+
+# 打印排序后的结果
+for article in articles_data_sorted:
+    print(f"Title: {article['title']}")
+    print(f"Citations: {article['citations']}")
+    print(f"URL: {article['url']}")
+    print('-' * 80)

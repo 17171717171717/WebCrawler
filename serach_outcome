@@ -1,0 +1,423 @@
+Title: A survey of forex and stock price prediction using deep learning
+Citations: 312
+URL: https://www.mdpi.com/2571-5577/4/1/9
+
+---
+
+Title: Deep reinforcement learning for automated stock trading: An ensemble strategy
+Citations: 258
+URL: https://dl.acm.org/doi/abs/10.1145/3383455.3422540
+
+---
+
+Title: Adaptive stock trading strategies with deep reinforcement learning methods
+Citations: 227
+URL: https://www.sciencedirect.com/science/article/pii/S0020025520304692
+
+---
+
+Title: Comprehensive review of deep reinforcement learning methods and applications in economics
+Citations: 216
+URL: https://www.mdpi.com/2227-7390/8/10/1640
+
+---
+
+Title: Improving financial trading decisions using deep Q-learning: Predicting the number of shares, action strategies, and transfer learning
+Citations: 215
+URL: https://www.sciencedirect.com/science/article/pii/S0957417418306134
+
+---
+
+Title: Multi-DQN: An ensemble of Deep Q-learning agents for stock market forecasting
+Citations: 197
+URL: https://www.sciencedirect.com/science/article/pii/S0957417420306321
+
+---
+
+Title: An application of deep reinforcement learning to algorithmic trading
+Citations: 194
+URL: https://www.sciencedirect.com/science/article/pii/S0957417421000737
+
+---
+
+Title: Deep robust reinforcement learning for practical algorithmic trading
+Citations: 164
+URL: https://ieeexplore.ieee.org/abstract/document/8786132/
+
+---
+
+Title: Application of deep reinforcement learning in stock trading strategies and stock forecasting
+Citations: 145
+URL: https://link.springer.com/article/10.1007/s00607-019-00773-w
+
+---
+
+Title: A multi-layer and multi-ensemble stock trader using deep learning and deep reinforcement learning
+Citations: 122
+URL: https://link.springer.com/article/10.1007/s10489-020-01839-5
+
+---
+
+Title: Global stock market prediction based on stock chart images using deep Q-network
+Citations: 114
+URL: https://ieeexplore.ieee.org/abstract/document/8901118/
+
+---
+
+Title: Deep LSTM with reinforcement learning layer for financial trend prediction in FX high frequency trading systems
+Citations: 82
+URL: https://www.mdpi.com/2076-3417/9/20/4460
+
+---
+
+Title: An overview of machine learning, deep learning, and reinforcement learning-based techniques in quantitative finance: recent progress and challenges
+Citations: 82
+URL: https://www.mdpi.com/2076-3417/13/3/1956
+
+---
+
+Title: Application of deep reinforcement learning on automated stock trading
+Citations: 75
+URL: https://ieeexplore.ieee.org/abstract/document/9040728/
+
+---
+
+Title: Application of deep q-network in portfolio management
+Citations: 73
+URL: https://ieeexplore.ieee.org/abstract/document/9101333/
+
+---
+
+Title: Deep reinforcement learning pairs trading with a double deep Q-network
+Citations: 70
+URL: https://ieeexplore.ieee.org/abstract/document/9031159/
+
+---
+
+Title: Price trailing for financial trading using deep reinforcement learning
+Citations: 64
+URL: https://ieeexplore.ieee.org/abstract/document/9112694/
+
+---
+
+Title: Deep reinforcement learning in quantitative algorithmic trading: A review
+Citations: 58
+URL: https://arxiv.org/abs/2106.00123
+
+---
+
+Title: Reinforcement learning in stock trading
+Citations: 57
+URL: https://link.springer.com/chapter/10.1007/978-3-030-38364-0_28
+
+---
+
+Title: A parallel multi-module deep reinforcement learning algorithm for stock trading
+Citations: 44
+URL: https://www.sciencedirect.com/science/article/pii/S0925231221005233
+
+---
+
+Title: Practical deep reinforcement learning approach for stock trading
+Citations: 44
+URL: https://arxiv.org/abs/1811.07522
+
+---
+
+Title: Stock trading rule discovery with double deep Q-network
+Citations: 43
+URL: https://www.sciencedirect.com/science/article/pii/S156849462100243X
+
+---
+
+Title: Hybrid deep reinforcement learning for pairs trading
+Citations: 42
+URL: https://www.mdpi.com/2076-3417/12/3/944
+
+---
+
+Title: Deep reinforcement learning approach for trading automation in the stock market
+Citations: 41
+URL: https://ieeexplore.ieee.org/abstract/document/9877940/
+
+---
+
+Title: A synchronous deep reinforcement learning model for automated multi-stock trading
+Citations: 35
+URL: https://link.springer.com/article/10.1007/s13748-020-00225-z
+
+---
+
+Title: Trend following deep Q‐Learning strategy for stock trading
+Citations: 31
+URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.12514
+
+---
+
+Title: Multi-type data fusion framework based on deep reinforcement learning for algorithmic trading
+Citations: 30
+URL: https://link.springer.com/article/10.1007/s10489-022-03321-w
+
+---
+
+Title: Using data augmentation based reinforcement learning for daily stock trading
+Citations: 29
+URL: https://www.mdpi.com/2079-9292/9/9/1384
+
+---
+
+Title: An empirical research on the investment strategy of stock market based on deep reinforcement learning model
+Citations: 27
+URL: https://discovery.ucl.ac.uk/id/eprint/10159893/
+
+---
+
+Title: A hybrid stock price prediction model based on pre and deep neural network
+Citations: 25
+URL: https://search.proquest.com/openview/596a6df28ea642b0f59840fd7fcac00c/1?pq-origsite=gscholar&cbl=2055419
+
+---
+
+Title: Stock trading strategies based on deep reinforcement learning
+Citations: 25
+URL: https://onlinelibrary.wiley.com/doi/abs/10.1155/2022/4698656
+
+---
+
+Title: A deep multimodal reinforcement learning system combined with CNN and LSTM for stock trading
+Citations: 24
+URL: https://ieeexplore.ieee.org/abstract/document/8939991/
+
+---
+
+Title: A study of forecasting stocks price by using deep Reinforcement Learning
+Citations: 23
+URL: https://ieeexplore.ieee.org/abstract/document/10174358/
+
+---
+
+Title: A hybrid stock price prediction model based on PRE and deep neural network
+Citations: 23
+URL: https://www.mdpi.com/2306-5729/7/5/51
+
+---
+
+Title: Finrl-podracer: high performance and scalable deep reinforcement learning for quantitative finance
+Citations: 23
+URL: https://dl.acm.org/doi/abs/10.1145/3490354.3494413
+
+---
+
+Title: A deep reinforcement learning-based decision support system for automated stock market trading
+Citations: 21
+URL: https://ieeexplore.ieee.org/abstract/document/9969608/
+
+---
+
+Title: Dynamic stock-decision ensemble strategy based on deep reinforcement learning
+Citations: 21
+URL: https://link.springer.com/article/10.1007/s10489-022-03606-0
+
+---
+
+Title: Robust forex trading with deep q network (dqn)
+Citations: 20
+URL: http://www.assumptionjournal.au.edu/index.php/abacjournal/article/view/3726
+
+---
+
+Title: A new multipredictor ensemble decision framework based on deep reinforcement learning for regional gdp prediction
+Citations: 18
+URL: https://ieeexplore.ieee.org/abstract/document/9764699/
+
+---
+
+Title: Forecasting the market with machine learning algorithms: An application of NMC-BERT-LSTM-DQN-X algorithm in quantitative trading
+Citations: 17
+URL: https://dl.acm.org/doi/abs/10.1145/3488378
+
+---
+
+Title: Stock market prediction using deep reinforcement learning
+Citations: 16
+URL: https://www.mdpi.com/2571-5577/6/6/106
+
+---
+
+Title: Application of deep reinforcement learning for Indian stock trading automation
+Citations: 16
+URL: https://arxiv.org/abs/2106.16088
+
+---
+
+Title: A novel deep reinforcement learning based automated stock trading system using cascaded lstm networks
+Citations: 16
+URL: https://www.sciencedirect.com/science/article/pii/S0957417423033031
+
+---
+
+Title: Deep reinforcement learning stock market trading, utilizing a CNN with candlestick images
+Citations: 16
+URL: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263181
+
+---
+
+Title: A multi-agent reinforcement learning framework for optimizing financial trading strategies based on timesnet
+Citations: 16
+URL: https://www.sciencedirect.com/science/article/pii/S0957417423020043
+
+---
+
+Title: Deep LSTM and LSTM-Attention Q-learning based reinforcement learning in oil and gas sector prediction
+Citations: 15
+URL: https://www.sciencedirect.com/science/article/pii/S0950705123010389
+
+---
+
+Title: A novel deep reinforcement learning framework with BiLSTM-Attention networks for algorithmic trading
+Citations: 13
+URL: https://www.sciencedirect.com/science/article/pii/S095741742303083X
+
+---
+
+Title: Deep reinforcement learning for stock prediction
+Citations: 12
+URL: https://onlinelibrary.wiley.com/doi/abs/10.1155/2022/5812546
+
+---
+
+Title: A novel trading strategy framework based on reinforcement deep learning for financial market predictions
+Citations: 10
+URL: https://www.mdpi.com/2227-7390/9/23/3094
+
+---
+
+Title: A hybrid stock market prediction model based on GNG and reinforcement learning
+Citations: 10
+URL: https://www.sciencedirect.com/science/article/pii/S0957417423009764
+
+---
+
+Title: Explainable reinforcement learning on financial stock trading using SHAP
+Citations: 10
+URL: https://arxiv.org/abs/2208.08790
+
+---
+
+Title: LSTM based recurrent enhancement of DQN for stock trading
+Citations: 8
+URL: https://ieeexplore.ieee.org/abstract/document/9289832/
+
+---
+
+Title: Enhanced Bitcoin Price Direction Forecasting with DQN
+Citations: 8
+URL: https://ieeexplore.ieee.org/abstract/document/10440336/
+
+---
+
+Title: A novel convolutional neural networks for stock trading based on DDQN algorithm
+Citations: 8
+URL: https://ieeexplore.ieee.org/abstract/document/10077346/
+
+---
+
+Title: A reinforcement learning based encoder-decoder framework for learning stock trading rules
+Citations: 8
+URL: https://arxiv.org/abs/2101.03867
+
+---
+
+Title: Quantitative trading through random perturbation Q-network with nonlinear transaction costs
+Citations: 8
+URL: https://www.mdpi.com/2571-905X/5/2/33
+
+---
+
+Title: A novel deep reinforcement learning based stock price prediction using knowledge graph and community aware sentiments
+Citations: 7
+URL: https://journals.tubitak.gov.tr/elektrik/vol30/iss4/22/
+
+---
+
+Title: Real-Time stock market forecasting using ensemble deep learning and rainbow DQN
+Citations: 7
+URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3586788
+
+---
+
+Title: A novel deep reinforcement learning based stock direction prediction using knowledge graph and community aware sentiments
+Citations: 7
+URL: https://arxiv.org/abs/2107.00931
+
+---
+
+Title: TBDQN: A novel two-branch deep Q-network for crude oil and natural gas futures trading
+Citations: 7
+URL: https://www.sciencedirect.com/science/article/pii/S0306261923006852
+
+---
+
+Title: Smart robotic strategies and advice for stock trading using deep transformer reinforcement learning
+Citations: 7
+URL: https://www.mdpi.com/2076-3417/12/24/12526
+
+---
+
+Title: Reinforcement learning with expert trajectory for quantitative trading
+Citations: 7
+URL: https://arxiv.org/abs/2105.03844
+
+---
+
+Title: Stock price forecast based on lstm and ddqn
+Citations: 5
+URL: https://ieeexplore.ieee.org/abstract/document/9837594/
+
+---
+
+Title: DADE-DQN: Dual Action and Dual Environment Deep Q-Network for Enhancing Stock Trading Strategy
+Citations: 5
+URL: https://www.mdpi.com/2227-7390/11/17/3626
+
+---
+
+Title: Algorithmic trading using combinational rule vector and deep reinforcement learning
+Citations: 5
+URL: https://www.sciencedirect.com/science/article/pii/S1568494623008207
+
+---
+
+Title: Stock trading strategy of reinforcement learning driven by turning point classification
+Citations: 5
+URL: https://link.springer.com/article/10.1007/s11063-022-11019-w
+
+---
+
+Title: Deep reinforcement trading with predictable returns
+Citations: 5
+URL: https://www.sciencedirect.com/science/article/pii/S0378437123004569
+
+---
+
+Title: An improved reinforcement learning model based on sentiment analysis
+Citations: 5
+URL: https://arxiv.org/abs/2111.15354
+
+---
+
+Title: Decision Making Process of Stock Trading Implementing DRQN And ARIMA
+Citations: 4
+URL: https://ieeexplore.ieee.org/abstract/document/9563476/
+
+---
+
+Title: Financial stock investment management using deep learning algorithm in the Internet of Things
+Citations: 4
+URL: https://onlinelibrary.wiley.com/doi/abs/10.1155/2022/4514300
+
+---
+
+Title: Application of deep reinforcement learning in financial quantitative trading
+Citations: 4
+URL: https://ieeexplore.ieee.org/abstract/document/9851105/
